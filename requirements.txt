@@ -1,0 +1,16 @@
+# Core
+torch>=2.0
+torchvision>=0.15
+numpy
+opencv-python
+scipy
+scikit-learn
+matplotlib
+
+# Visualisation / dashboard / report
+plotly
+kaleido==0.2.1        # static export for the report's 3D panels
+ipywidgets
+
+# Notebook environment (Colab provides these; listed for local use)
+jupyter
